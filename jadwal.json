@@ -1,0 +1,10 @@
+[
+  {
+    "id": "uj7-01",
+    "kelas": "7",
+    "nama_ujian": "Ujian Matematika 1",
+    "waktu_mulai": "2026-07-22 08:00:00",
+    "durasi_menit": 90,
+    "url_soal": "https://raw.githubusercontent.com/username/repo/main/soal_mat_7.json"
+  }
+]
