@@ -361,6 +361,7 @@
   },
   {
     "tipe": "menjodohkan",
+    "nomor": 1,
     "pertanyaan": "Silakan pasangkan kata berikut dengan arti/jawaban yang tepat pada kolom sebelah kanan!",
     "pasangan": {
       "السَّلَامُ عَلَيْكُمْ": "Semoga keselamatan menyertaimu",
@@ -374,6 +375,18 @@
       "جَنُوْب شَرْق آسِيَا": "Asia Tenggara",
       "مَا اسْمُكَ": "Siapa namamu?"
     },
+    "pilihan_kanan": [
+      "Semoga keselamatan menyertaimu",
+      "Bagaimana kabarmu?",
+      "Selamat pagi",
+      "Terima kasih",
+      "Dari mana asalmu?",
+      "Sampai jumpa",
+      "Utara",
+      "Barat",
+      "Asia Tenggara",
+      "Siapa namamu?"
+    ],
     "gambar": ""
   },
   {
