@@ -8,8 +8,8 @@
     "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal%201.json"
   },
   {
-    "id": "uj7-02",
-    "kelas": ["7A", "7B", "7C", "7D", "7E", "7F"],
+    "id": "uj8-01",
+    "kelas": ["8A", "8B", "8C", "8D", "8E", "8F"],
     "nama_ujian": "Ujian Matematika 2",
     "waktu_mulai": "2026-07-22 12:00:00",
     "durasi_menit": 90,
