@@ -1,0 +1,404 @@
+{
+  "penilaian_akhir_semester": [
+    {
+      "kelas": "VIII",
+      "header": {
+        "tahun_pelajaran": "2025/2026",
+        "mata_pelajaran": "SKI",
+        "satuan_pendidikan": "MTs JAMALUDDIN PAOK PONDONG",
+        "kelas": "VIII",
+        "hari_tanggal": "",
+        "waktu": "",
+        "kurikulum": ""
+      },
+      "petunjuk_umum": [
+        "Isilah nomor ujian, nama peserta dan tanggal lahir pada Lembar Jawaban;",
+        "Hitamkan bulatan di depan nama mata ujian pada;",
+        "Tersedia waktu 120 menit untuk mengerjakan paket tes ini;",
+        "Jumlah soal sebanyak 45 butir, yang terdiri dari 30 butir pilihan ganda, 10 butir menjodohkan dan 5 butir uraian;",
+        "Periksa dan bacalah soal-soal sebelum Anda menjawabnya;",
+        "Laporkan kepada pengawas ujian apabila terdapat lembar soal yang kurang jelas, rusak, atau tidak lengkap;",
+        "Mintalah kertas buram kepada pengawas ujian, bila diperlukan;",
+        "Tidak diizinkan menggunakan kalkulator, HP, tabel matematika atau alat bantu hitung lainnya;",
+        "Periksalah pekerjaan Anda sebelum diserahkan kepada pengawas ujian;",
+        "Lembar soal tidak boleh dicoret-coret, difotokopi, atau digandakan."
+      ],
+      "soal_pilihan_ganda": [
+        {
+          "no": 1,
+          "pertanyaan": "Di bawah ini yang merupakan faktor internal penyebab runtuhnya kepemimpinan Dinasti Umayyah adalah…",
+          "pilihan": [
+            "Figur pewaris yang lemah setelah meninggalnya Khalifah Hisyam",
+            "Munculnya kekuatan baru yang dipelopori oleh keluarga Abbas",
+            "Ketidakpuasan sejumlah pemeluk Islam non Arab terhadap pemerintahan Bani Umayyah",
+            "Adanya kekecewaan dari kalangan ulama terhadap kebijakan para pemerintah"
+          ]
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Proses yang menjadi awal berdirinya Pemerintahan Dinasti Bani Abbasiyah adalah…",
+          "pilihan": [
+            "Keruntuhan Dinasti Bani Umayyah pada tahun 750 M, saat pasukan Abu Muslim al-Khurasani memenangkan pertempuran melawan pasukan Marwan",
+            "Banyaknya daerah kekuasaan Islam yang ditaklukan Dinasti Abbasiyah",
+            "Ketika banyaknya para ilmuwan dan ulama bermunculan membawa perubahan dan kejayaan Dinasti",
+            "Setelah meninggalnya Khalifah Hisyam dari Dinasti Bani Umayyah"
+          ]
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Tokoh pelopor anti Bani Umayyah adalah…",
+          "pilihan": [
+            "Harun ar-Rasyid",
+            "Abu Nawas",
+            "Muhammad bin Ali",
+            "Abu Abbas As-safah"
+          ]
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Yang merupakan pendiri Dinasti Bani Umayyah adalah…",
+          "pilihan": [
+            "Abu Bakar As-siddik",
+            "Siti Khadijah",
+            "Umar bin Abdul Aziz",
+            "Muawiyah bin Abu Sufyan"
+          ]
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Khalifah terakhir Dinasti Bani Umayyah adalah…",
+          "pilihan": [
+            "Zaid bin Haritsah",
+            "Abu Bakar as-Siddik",
+            "Marwan bin Muhammad",
+            "Muawiyah bin Abu Sufyan"
+          ]
+        },
+        {
+          "no": 6,
+          "pertanyaan": "Keruntuhan Dinasti Bani Umayyah benar-benar terjadi setelah pasukan Abbas menggulingkan pasukan Marwan pada sebuah pertempuran yang disebut…",
+          "pilihan": [
+            "Perang Zab Hulu",
+            "Perang Khandak",
+            "Perang Badar",
+            "Perang Salib"
+          ]
+        },
+        {
+          "no": 7,
+          "pertanyaan": "Dalam upaya mengambil alih kekuasaan Islam, pasukan Abbas melakukan propaganda di tengah-tengah masyarakat. Adapun jumlah propaganda yang dibentuk dan tersebar di berbagai wilayah adalah…",
+          "pilihan": [
+            "14",
+            "13",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "no": 8,
+          "pertanyaan": "Proses runtuhnya pemerintahan Dinasti Umayyah pada tahun 750 M memiliki keterkaitan erat dengan proses awal mula berdirinya Dinasti Abbasiyah yaitu…",
+          "pilihan": [
+            "Keruntuhan Dinasti Umayyah akan ikut menghancurkan Dinasti Abbasiyah",
+            "Keruntuhan Umayyah membawa kepedihan mendalam bagi Abbasiyah",
+            "Kedua Dinasti sama-sama kerajaan masa lampau",
+            "Runtuhnya kekuasaan Umayyah menjadi tonggak awal berdirinya Kekuasaan Abbasiyah"
+          ]
+        },
+        {
+          "no": 9,
+          "pertanyaan": "Pada awal berdirinya Dinasti Abbasiyah, pusat pemerintahan pada saat itu berada di kota…",
+          "pilihan": [
+            "Damaskus",
+            "Basrah",
+            "Khurasan",
+            "Kuffah"
+          ]
+        },
+        {
+          "no": 10,
+          "pertanyaan": "Di bawah ini yang merupakan perbandingan antara sistem pemerintahan Daulah Umayyah dan Abbasiyah yang tepat adalah…",
+          "pilihan": [
+            "Daulah Umayyah lebih menekankan pada aspek militer dan ekspansi wilayah. Daulah Abbasiyah lebih menekankan aspek ilmu pengetahuan dan budaya.",
+            "Daulah Umayyah menggunakan sistem Demokrasi dan Daulah Abbasiyah dengan sistem Monarki",
+            "Daulah Umayyah dan Abbasiyah sama-sama diskriminatif terhadap kaum Mawalli",
+            "Kedua Daulah sama-sama toleran terhadap kaum Mawalli"
+          ]
+        },
+        {
+          "no": 11,
+          "pertanyaan": "Pernyataan-pernyataan berikut merupakan prestasi dari salah satu ilmuwan muslim:\n- Pendiri kota Baghdad\n- Membenahi administrasi pemerintahan\n- Membangun hubungan diplomatik dengan wilayah di luar Arab\nSiapakah tokoh tersebut?",
+          "pilihan": [
+            "Ibnu Sina",
+            "Ibnu Majjah",
+            "Abu Ja’far al-Mansyur",
+            "Attabari"
+          ]
+        },
+        {
+          "no": 12,
+          "pertanyaan": "Di bawah ini yang merupakan strategi keluarga Abbas dalam upaya mengambil alih kekuasaan kaum muslimin dari Dinasti Umayyah adalah…",
+          "pilihan": [
+            "Menciptakan propaganda di kalangan masyarakat, serta isu-isu ketidakadilan Daulah Umayyah",
+            "Melakukan pemboikotan terhadap perekonomian Daulah Umayyah",
+            "Melakukan perjanjian Aqabah antara Daulah Umayyah dengan Daulah Abbasiyah",
+            "Melakukan serangan langsung kepada pasukan Umayyah"
+          ]
+        },
+        {
+          "no": 13,
+          "pertanyaan": "Pesan apa yang dapat diambil dari peristiwa runtuhnya Dinasti Umayyah dengan berdirinya Daulah Abbasiyah…",
+          "pilihan": [
+            "Pemerintahan yang baik tidak akan mengalami kemunduran",
+            "Setiap negara akan berperang pada masanya",
+            "Contohlah Daulah Abbasiyah yang mampu menggulingkan pemerintahan Umayyah",
+            "Setiap pemerintahan yang berdiri pasti pada masanya akan berakhir dan digantikan dengan yang baru"
+          ]
+        },
+        {
+          "no": 14,
+          "pertanyaan": "Sikap dari seorang Khalifah Harun ar-Rasyid sebagai seorang pemimpin adalah…",
+          "pilihan": [
+            "Keras, bertanggung jawab, toleran, peduli pada kaum muslimin saja",
+            "Keras, mementingkan diri, tanggung",
+            "Lemah lembut, bertanggung jawab, toleran dan mampu mengendalikan diri",
+            "Lemah lembut, tidak toleran, tegas dan otoriter"
+          ]
+        },
+        {
+          "no": 15,
+          "pertanyaan": "Perebutan kekuasaan antara Dinasti Umayyah dengan Dinasti Abbasiyah dilatarbelakangi oleh…",
+          "pilihan": [
+            "Dilatarbelakangi oleh pemikiran tentang siapa yang berhak memimpin kaum muslimin setelah Rasulullah",
+            "Dinasti Abbasiyah merasa lebih senior dari Umayyah",
+            "Karena tatanan negara yang masih tidak tertata rapi masa Dinasti Umayyah",
+            "Karena Dinasti Umayyah lebih sedikit daerah kekuasaannya dari Dinasti Abbasiyah"
+          ]
+        },
+        {
+          "no": 16,
+          "pertanyaan": "Dinasti Abbasiyah memerintah selama…",
+          "pilihan": [
+            "3 setengah abad",
+            "4 abad",
+            "2 abad",
+            "5 setengah abad"
+          ]
+        },
+        {
+          "no": 17,
+          "pertanyaan": "Jumlah khalifah yang pernah memerintah Dinasti Abbasiyah yaitu…",
+          "pilihan": [
+            "38",
+            "39",
+            "40",
+            "37"
+          ]
+        },
+        {
+          "no": 18,
+          "pertanyaan": "Kota yang menjadi pusat peradaban Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "Damaskus",
+            "Baghdad",
+            "Mekah",
+            "Syiria"
+          ]
+        },
+        {
+          "no": 19,
+          "pertanyaan": "Perpindahan kekuasaan setelah meninggalnya Khalifah Hisyam dilandasi dengan…",
+          "pilihan": [
+            "Peperangan",
+            "Pertikaian keluarga",
+            "Kejayaan Dinasti Umayyah",
+            "Kemunduran Dinasti Umayyah"
+          ]
+        },
+        {
+          "no": 20,
+          "pertanyaan": "Di antara kota-kota yang merupakan pusat kegiatan dan strategi pergerakan perebutan kekuasaan kaum muslimin dari Daulah Umayyah oleh Daulah Abbasiyah adalah…",
+          "pilihan": [
+            "Humaymah, Basrah dan Turki",
+            "Humaymah, Kuffah dan Khurasan",
+            "Mekah, Madinah dan India",
+            "Humaymah, Kuffah dan Spanyol"
+          ]
+        },
+        {
+          "no": 21,
+          "pertanyaan": "Tempat sebagai pusat pengembangan dan penerjemahan karya-karya kuno yang mendapat perhatian langsung oleh Khalifah Harun ar-Rasyid dan Al-Makmun adalah…",
+          "pilihan": [
+            "Baitul Hikam",
+            "Baitul Makmur",
+            "Baitul Maal",
+            "Baitul Hikmah"
+          ]
+        },
+        {
+          "no": 22,
+          "pertanyaan": "Dari data berikut:\n1. Abu Ja’far al-Mansyur\n2. Muawiyah bin Abu Sufyan\n3. Al-Ma’mun\n4. Umar bin Abdul Aziz\nYang termasuk Khalifah besar Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "1, 2 dan 3",
+            "2, 3 dan 4",
+            "1, 2 dan 4",
+            "1, 3 dan 4"
+          ]
+        },
+        {
+          "no": 23,
+          "pertanyaan": "Di antara ibrah yang dapat diambil dari perkembangan dan kemajuan para ilmuan Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "Menumbuhkan keinginan untuk menuntut ilmu seperti para ilmuan",
+            "Membangun kota kuno seperti yang ada pada masa Dinasti Abbasiyah",
+            "Ikut berperang seperti yang terjadi pada masa itu",
+            "Mengikuti secara utuh budaya yang ada pada masa pemerintahan terdahulu"
+          ]
+        },
+        {
+          "no": 24,
+          "pertanyaan": "Gerakan dakwah Dinasti Abbasiyah dimulai pada masa…",
+          "pilihan": [
+            "Abu Ja’far al-Mansyur",
+            "Umar bin Abdul Aziz",
+            "Harun ar-Rasyid",
+            "Abu Abbas as-Safah"
+          ]
+        },
+        {
+          "no": 25,
+          "pertanyaan": "Panglima perang Dinasti Abbasiyah yang berjasa menggulingkan Dinasti Umayyah adalah…",
+          "pilihan": [
+            "Muhammad bin Ali",
+            "Abu Muslim al-Khurasani",
+            "Bilal bin Rabbah",
+            "Ali bin Abi Thalib"
+          ]
+        },
+        {
+          "no": 26,
+          "pertanyaan": "Perjanjian antara Hasan bin Ali dengan Mu’awiyah disebut dengan…",
+          "pilihan": [
+            "Amul Jamaah",
+            "Hudaybiah",
+            "Perjanjian Aqabah",
+            "Perjanjian Aqabah II"
+          ]
+        },
+        {
+          "no": 27,
+          "pertanyaan": "Selain sebagai tempat ibadah, pada masa Abbasiyah masjid juga berfungsi sebagai…",
+          "pilihan": [
+            "Penginapan",
+            "Tempat ibadah",
+            "Pusat ilmu pengetahuan",
+            "Tempat jual beli"
+          ]
+        },
+        {
+          "no": 28,
+          "pertanyaan": "Tokoh yang berperan penting dalam mendirikan Dinasti Abbasiyah sekaligus sebagai Khalifah Dinasti tersebut adalah…",
+          "pilihan": [
+            "Abu Muslim al-Khurasani",
+            "Muhammad bin Ali",
+            "Ibrahim al-Imam",
+            "Abul Abbas as-Safah"
+          ]
+        },
+        {
+          "no": 29,
+          "pertanyaan": "Isu yang disebar keluarga Abbas untuk mencari dukungan masyarakat adalah…",
+          "pilihan": [
+            "Ketidakadilan yang dilakukan oleh Dinasti Umayyah terutama kepada kaum Mawalli",
+            "Pemerintahan Umayyah yang selalu korupsi",
+            "Dinasti Umayyah yang sering mengadakan kerja paksa secara diam-diam",
+            "Para pemimpin yang otoriter"
+          ]
+        },
+        {
+          "no": 30,
+          "pertanyaan": "Di Barat, Jabir Bin Hayyan seorang ahli kimia muslim pertama yang lebih dikenal dengan sebutan……",
+          "pilihan": [
+            "Gabi",
+            "Genta",
+            "Geri",
+            "Geber"
+          ]
+        }
+      ],
+      "soal_menjodohkan": [
+        {
+          "no": 1,
+          "kolom_a": "Penulis Buku Al-Qanun Fi At-tib (dasar-dasar ilmu kedokteran)",
+          "kolom_b": "Al-Khawarizmi"
+        },
+        {
+          "no": 2,
+          "kolom_a": "Ulama penyusun Kutubu sittah",
+          "kolom_b": "Ali ibnu Rabban At-Tabari"
+        },
+        {
+          "no": 3,
+          "kolom_a": "Pendiri Mazhab Hanafi",
+          "kolom_b": "Al-Khindi, Al-Ghazali, Ibnu Maskawaih"
+        },
+        {
+          "no": 4,
+          "kolom_a": "Pendiri Mazhab syafi’i",
+          "kolom_b": "Imam Abu Hanifah"
+        },
+        {
+          "no": 5,
+          "kolom_a": "Ilmuan penulis ensiklopeddia Kesehatan (Firdaus Al-Hikmah)",
+          "kolom_b": "[Gambar Patung Monumen Ilmuwan]"
+        },
+        {
+          "no": 6,
+          "kolom_a": "Ilmuan Muslim bidang kedokteran masa Dinasti Abbasiyah",
+          "kolom_b": "[Gambar Ilustrasi Khalifah / Tokoh Muslim]"
+        },
+        {
+          "no": 7,
+          "kolom_a": "Ilmuan bidang Filsafat Islam masa Dinasti Abbasiyah",
+          "kolom_b": "Ibnu Sina"
+        },
+        {
+          "no": 8,
+          "kolom_a": "Ilmuan bidang Astronomi",
+          "kolom_b": "Ali At-Tabari, Ar-Razi, Ibnu Sina"
+        },
+        {
+          "no": 9,
+          "kolom_a": "Gambar yang menunjukan khalifah Dinasti Abbasiyah ( Harun Ar-Rasyid)",
+          "kolom_b": "Imam Syafi’i"
+        },
+        {
+          "no": 10,
+          "kolom_a": "Gambar yang menunjukan khalifah (Abu Ja’far Al-Mansyur)",
+          "kolom_b": "Imam Bukhari, Imam Muslim, Imam Abu Daud, Imam At-Tirmizi, Imam An-Nasai, Imam Ibnu Majjah"
+        }
+      ],
+      "soal_uraian": [
+        {
+          "no": 1,
+          "pertanyaan": "Apa saja faktor-faktor pendukung terbentuknya Daulah Abbasiyah?"
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Apa saja faktor inernal dan eksternal penyebab runtuhnya Daulah Abbasiyah?"
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Ceritakan yang kamu ketahui mengenai sejarah berdirinya Dinasti Abbasiyah!"
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Sebutkan tokoh-tokoh penting dalam proses berdirinya Daulah Abbasiyah!"
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Pelajaran apa yang bisa kamu ambil dari kekhalifahan Daulah Abbasiyah?"
+        }
+      ]
+    }
+  ]
+}
