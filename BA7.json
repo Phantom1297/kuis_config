@@ -363,16 +363,16 @@
     "tipe": "menjodohkan",
     "pertanyaan": "Silakan pasangkan kata berikut dengan arti/jawaban yang tepat pada kolom sebelah kanan!",
     "pasangan": {
-      "السَّلَامُ عَلَيْكُمْ": "",
-      "كَيْفَ حَالُكَ": "",
-      "صَبَاحُ الْخَيْر": "",
-      "شُكْرًا": "",
-      "مِنْ أَيْنَ أَنْتَ": "",
-      "إِلَى اللِّقَاء": "",
-      "الشَّمَالِيَّة": "",
-      "الْغَرْبِيَّة": "",
-      "جَنُوْب شَرْق آسِيَا": "",
-      "مَا اسْمُكَ": ""
+      "السَّلَامُ عَلَيْكُمْ": "Semoga keselamatan menyertaimu",
+      "كَيْفَ حَالُكَ": "Bagaimana kabarmu?",
+      "صَبَاحُ الْخَيْر": "Selamat pagi",
+      "شُكْرًا": "Terima kasih",
+      "مِنْ أَيْنَ أَنْتَ": "Dari mana asalmu?",
+      "إِلَى اللِّقَاء": "Sampai jumpa",
+      "الشَّمَالِيَّة": "Utara",
+      "الْغَرْبِيَّة": "Barat",
+      "جَنُوْب شَرْق آسِيَا": "Asia Tenggara",
+      "مَا اسْمُكَ": "Siapa namamu?"
     },
     "gambar": ""
   },
