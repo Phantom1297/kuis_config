@@ -2,25 +2,25 @@
   {
     "id": "uj7-01",
     "kelas": ["7A", "7B", "7C"],
-    "nama_ujian": "Ujian PAI Kelas 7",
+    "nama_ujian": "Ujian SKI Kelas 7",
     "waktu_mulai": "2026-07-22 08:00:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/.../soal_kelas_7.json"
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski7"
   },
   {
     "id": "uj8-01",
     "kelas": ["8A", "8B", "8C"],
-    "nama_ujian": "Ujian PAI Kelas 8",
+    "nama_ujian": "Ujian SKI Kelas 8",
     "waktu_mulai": "2026-07-22 12:00:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/.../soal_kelas_8.json"
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski8"
   },
   {
     "id": "uj9-01",
     "kelas": ["9A", "9B", "9C"],
-    "nama_ujian": "Ujian PAI Kelas 9",
+    "nama_ujian": "Ujian SKI Kelas 9",
     "waktu_mulai": "2026-07-23 08:00:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/.../soal_kelas_9.json"
+    "url_soal": ""
   }
 ]
