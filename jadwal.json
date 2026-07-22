@@ -9,7 +9,7 @@
   },
   {
     "id": "uj-03",
-    "kelas": ["VIII A", "VIII B", "VIII C",],
+    "kelas": ["VIII A", "VIII B", "VIII C"],
     "nama_ujian": "IPA",
     "waktu_mulai": "2025-11-27 07:30:00",
     "durasi_menit": 120,
