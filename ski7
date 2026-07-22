@@ -1,0 +1,803 @@
+{
+  "penilaian_akhir_semester": [
+    {
+      "kelas": "VII",
+      "header": {
+        "tahun_pelajaran": "2025/2026",
+        "mata_pelajaran": "SKI",
+        "satuan_pendidikan": "MTs JAMALUDDIN PAOK PONDONG",
+        "kelas": "VII",
+        "hari_tanggal": "",
+        "waktu": "",
+        "kurikulum": ""
+      },
+      "petunjuk_umum": [
+        "Isilah nomor ujian, nama peserta dan tanggal lahir pada Lembar Jawaban;",
+        "Hitamkan bulatan di depan nama mata ujian pada;",
+        "Tersedia waktu 120 menit untuk mengerjakan paket tes ini;",
+        "Jumlah soal sebanyak 45 butir, yang terdiri dari 30 butir pilihan ganda, 10 butir menjodohkan dan 5 butir uraian;",
+        "Periksa dan bacalah soal-soal sebelum Anda menjawabnya;",
+        "Laporkan kepada pengawas ujian apabila terdapat lembar soal yang kurang jelas, rusak, atau tidak lengkap;",
+        "Mintalah kertas buram kepada pengawas ujian, bila diperlukan;",
+        "Tidak diizinkan menggunakan kalkulator, HP, tabel matematika atau alat bantu hitung lainnya;",
+        "Periksalah pekerjaan Anda sebelum diserahkan kepada pengawas ujian;",
+        "Lembar soal tidak boleh dicoret-coret, difotokopi, atau digandakan."
+      ],
+      "soal_pilihan_ganda": [
+        {
+          "no": 1,
+          "pertanyaan": "Apa yang dimaksud dengan masa jahiliyah?",
+          "pilihan": [
+            "Masa kebodohan",
+            "Masa kemuliaan",
+            "Masa kesuburan",
+            "Masa kekeringan"
+          ]
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Kebiasaan-kebiasaan buruk masyarakat Makkah adalah minum minuman khamr (arak) sampai mabuk, berjudi, berzina dan merampok dan sebagainya. Bagaimana sikap mereka terhadap kaum perempuan?",
+          "pilihan": [
+            "memposisikan perempuan pada posisi lemah",
+            "memposisikan perempuan pada posisi setara laki-laki",
+            "memposisikan perempuan pada posisi terhormat",
+            "memposisikan perempuan pada posisi terendah"
+          ]
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Kondisi ekonomi bangsa Arab saat sebelum datangnya Islam sudah maju, sebagian besar mata pencaharian masyarakat Makkah adalah .....",
+          "pilihan": [
+            "bertani",
+            "berkebun",
+            "nelayan",
+            "berdagang"
+          ]
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Saat Nabi dan sahabat hijrah ke Madinah dan ditolong oleh kaum muslim di Madinah. Golongan muslim Madinah disebut kaum....",
+          "pilihan": [
+            "Muhajirin",
+            "Anshar",
+            "Khazraj",
+            "Baduwi"
+          ]
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Kaum muslim Mekkah yang melakukan hijrah menuju Madinah disebut....",
+          "pilihan": [
+            "Muhajirin",
+            "Anshar",
+            "Qurays",
+            "Baduwi"
+          ]
+        },
+        {
+          "no": 6,
+          "pertanyaan": "Saat musim haji pada tahun ke-12 kenabian, Nabi Muhammad Saw berdakwah pada para rombongan yang berziarah ke Ka’bah. Saat itu, beliau berhasil mengislamkan rombongan dari Yasrib sebanyak....",
+          "pilihan": [
+            "10 orang",
+            "12 orang",
+            "20 orang",
+            "30 orang"
+          ]
+        },
+        {
+          "no": 7,
+          "pertanyaan": "Perjanjian antara Nabi Muhammad Saw dengan 12 orang rombongan dari Yasrib yang memeluk Islam pada tahun ke-12 kenabian dinamakan baiat....",
+          "pilihan": [
+            "Aqabah",
+            "Arafah",
+            "Madinah",
+            "Hudaibiyah"
+          ]
+        },
+        {
+          "no": 8,
+          "pertanyaan": "Ketika kafir Quraisy berencana membunuh Nabi Muhammad, sebelum menuju Madinah Nabi Muhammad bersembunyi di sebuah gua yang bernama….",
+          "pilihan": [
+            "Gua Hiro",
+            "Gua Tsur",
+            "Gua hantu",
+            "Gua angkasa"
+          ]
+        },
+        {
+          "no": 9,
+          "pertanyaan": "Sebagai alat transportasi untuk memobilisasi barang perdagangan, bangsa Arab menggunakan alat transportasi yang bisa diandalkan, Alat transportasi yang dimaksud adalah .....",
+          "pilihan": [
+            "keledai",
+            "gajah",
+            "unta",
+            "kuda"
+          ]
+        },
+        {
+          "no": 10,
+          "pertanyaan": "Berapakah usia Nabi Muhammad ketika menerima wahyu pertama?",
+          "pilihan": [
+            "38 tahun",
+            "39 tahun",
+            "41 tahun",
+            "40 tahun"
+          ]
+        },
+        {
+          "no": 11,
+          "pertanyaan": "Nabi Muhammad lahir pada tanggal 12 Rabiul Awal Tahun Gajah tepatnya pada tanggal ...",
+          "pilihan": [
+            "20 April 568",
+            "20 April 569",
+            "20 April 571",
+            "20 April 570"
+          ]
+        },
+        {
+          "no": 12,
+          "pertanyaan": "Agama Islam diturunkan kepada Nabi Muhammad Saw adalah rahmatal lil alamin, artinya....................",
+          "pilihan": [
+            "Islam hanya untuk orang Arab",
+            "Islam hanya untuk orang Quraisy",
+            "Islam untuk semua umat dan makhluk",
+            "Islam untuk keluarga Nabi Muhammad"
+          ]
+        },
+        {
+          "no": 13,
+          "pertanyaan": "Setelah lebih kurang enam bulan Nabi Muhammad bertahannus di Gua Hira, malaikat Jibril datang menyampaikan wahyu. Tanggal dan bulan berapa wahyu pertama diturunkan?",
+          "pilihan": [
+            "16 Ramadhan",
+            "17 Ramadhan",
+            "19 Ramadhan",
+            "18 Ramadhan"
+          ]
+        },
+        {
+          "no": 14,
+          "pertanyaan": "Tahun kelahiran Nabi disebut dengan tahun gajah karena….",
+          "pilihan": [
+            "Pada saat itu banyak yang menggembala gajah",
+            "Pada saat itu sedang ada pesta bergajah",
+            "Pada saat itu terjadinya penyerangan Ka’bah oleh pasukan gajah",
+            "Pada saat itu adanya wabah penyakit yang menyerang banyak gajah"
+          ]
+        },
+        {
+          "no": 15,
+          "pertanyaan": "Berapakah usia Nabi Muhammad saat ditinggal wafat oleh ibunya?",
+          "pilihan": [
+            "3 tahun",
+            "4 tahun",
+            "6 tahun",
+            "5 tahun"
+          ]
+        },
+        {
+          "no": 16,
+          "pertanyaan": "Dalam keadaan rindu dan berharap-harap cemas kemudian Jibril datang kembali dengan membawa wahyu yang kedua yaitu yang berisi perintah untuk mulai berdakwah adalah .....",
+          "pilihan": [
+            "Surah Al-Mudassir",
+            "Surah Al-Humazah",
+            "Surah Al-Kafirun",
+            "Surah Al-Insyirah"
+          ]
+        },
+        {
+          "no": 17,
+          "pertanyaan": "Beberapa faktor yang menyebabkan kafir Quraisy menolak keras ajaran Muhammad, kecuali .....",
+          "pilihan": [
+            "Ketakutan kehilangan kekuasaan",
+            "Hilangnya status sosial",
+            "Hilangnya perdagangan patung",
+            "Karena hubungan kekeluargaan"
+          ]
+        },
+        {
+          "no": 18,
+          "pertanyaan": "Paman Nabi Muhammad yang selalu melindunginya dari ancaman kafir Quraisy adalah .....",
+          "pilihan": [
+            "Abu Thalib bin Abdul Muthalib",
+            "Abbas Abdul Muthalib",
+            "Abbas bin Abdul Muthalib",
+            "Hamzah bin Abdul Muthalib"
+          ]
+        },
+        {
+          "no": 19,
+          "pertanyaan": "Berapa lama Nabi Muhammad melaksanakan dakwah rahasia (sirriya) .....",
+          "pilihan": [
+            "1 tahun",
+            "2 tahun",
+            "4 tahun",
+            "3 tahun"
+          ]
+        },
+        {
+          "no": 20,
+          "pertanyaan": "Pada umumnya, reaksi orang kafir Quraisy terhadap dakwah Nabi Muhammad SAW adalah....",
+          "pilihan": [
+            "Sangat senang",
+            "Biasa saja",
+            "Senang",
+            "Tidak senang"
+          ]
+        },
+        {
+          "no": 21,
+          "pertanyaan": "Nabi Muhammad meninggal dunia pada umur berapa?",
+          "pilihan": [
+            "63 tahun",
+            "60 tahun",
+            "70 tahun",
+            "40 tahun"
+          ]
+        },
+        {
+          "no": 22,
+          "pertanyaan": "Senantiasa Nabi bila disakiti ia selalu bersabar dan tabah. Perilaku tersebut merupakan sifat…",
+          "pilihan": [
+            "Tercela",
+            "Terpuji",
+            "Munafik",
+            "Kufur"
+          ]
+        },
+        {
+          "no": 23,
+          "pertanyaan": "Nabi Muhammad SAW dalam berdagang mendapatkan julukan Al-Amin yang berarti...",
+          "pilihan": [
+            "Disegani",
+            "Dilindungi",
+            "Disenangi",
+            "Dipercaya"
+          ]
+        },
+        {
+          "no": 24,
+          "pertanyaan": "Rasulullah berdakwah di Makkah selama berapa tahun?",
+          "pilihan": [
+            "10 tahun",
+            "11 tahun",
+            "12 tahun",
+            "13 tahun"
+          ]
+        },
+        {
+          "no": 25,
+          "pertanyaan": "Sepeninggal ibundanya, Rasulullah kemudian diasuh oleh kakeknya selama berapa tahun….",
+          "pilihan": [
+            "1 tahun",
+            "2 tahun",
+            "3 tahun",
+            "4 tahun"
+          ]
+        },
+        {
+          "no": 26,
+          "pertanyaan": "Ketika Rasulullah dalam kandungan, ayahanda beliau meninggal dunia. Nama ayah beliau adalah….",
+          "pilihan": [
+            "Abdullah bin Abdul Muthalib",
+            "Abu Thalib bin Abdul Muthalib",
+            "Abu Bakar",
+            "Ali bin Abi Thalib"
+          ]
+        },
+        {
+          "no": 27,
+          "pertanyaan": "Nabi Muhammad dilahirkan di rumah Abu Thalib di Syi’ib Bani Hasyim, orang yang bertindak sebagai bidannya bernama…..",
+          "pilihan": [
+            "Asy-Syafa’ Ummu Abdurrahman bin Auf",
+            "Fatimah Azzahra",
+            "Halimah",
+            "Aminah"
+          ]
+        },
+        {
+          "no": 28,
+          "pertanyaan": "Sepeninggal ibunda beliau, Rasulullah kemudian diasuh oleh kakeknya yang bernama?",
+          "pilihan": [
+            "Abu Thalib",
+            "Abdul Muthalib",
+            "Abu Bakar",
+            "Bilal bin Rabbah"
+          ]
+        },
+        {
+          "no": 29,
+          "pertanyaan": "Assabiqunal Awwalun artinya……",
+          "pilihan": [
+            "Orang yang paling awal masuk Islam",
+            "Orang yang keluar dari agama Islam",
+            "Orang yang mencari agama Islam",
+            "Orang yang menyebarkan agama Islam"
+          ]
+        },
+        {
+          "no": 30,
+          "pertanyaan": "Ketika masa persembunyian Rasulullah bersama sahabatnya di Gua Tsur, Allah memberikan pertolongan kepada Nabi Muhammad untuk mengelabui para kafir Quraisy yaitu berupa….",
+          "pilihan": [
+            "Datangnya binatang berupa burung dan laba-laba untuk membuat sarang di mulut gua",
+            "Datangnya gerombolan lebah untuk membuat sarang di mulut gua",
+            "Datangnya hewan seperti lalat yang menutup gua",
+            "Berkumpulnya pasukan gajah yang bermain di depan pintu gua"
+          ]
+        }
+      ],
+      "soal_menjodohkan": [
+        {
+          "no": 1,
+          "kolom_a": "Masjid yang ada di kota mekkah dan termasuk masjid terbesar di Dunia",
+          "kolom_b": "QS. Al-Hijr :94"
+        },
+        {
+          "no": 2,
+          "kolom_a": "Orang yang menggantikan Nabi Muhammad di tempat Tidurnya Ketika Hijrah ke Madinah",
+          "kolom_b": "Madinah"
+        },
+        {
+          "no": 3,
+          "kolom_a": "Orang yang menemani hijrah Nabi ke Madinah",
+          "kolom_b": "Masjid Nabawi"
+        },
+        {
+          "no": 4,
+          "kolom_a": "Surah dalam Al-Quran yang berisi perintah berdakwah secara Rahasia (Sirriyah)",
+          "kolom_b": "Abdullah bin Arqayat"
+        },
+        {
+          "no": 5,
+          "kolom_a": "Surah dalam Al-Qur’an yang berisi perintah berdakwah secara terang-terangan (Jahr)",
+          "kolom_b": "QS. As-syuara’ :124-126"
+        },
+        {
+          "no": 6,
+          "kolom_a": "Seorang kafir Qurais yang dipercaya sebagai pemandu Hijrah Nabi ke Madinah",
+          "kolom_b": "Abdullah bin Abu Bakar"
+        },
+        {
+          "no": 7,
+          "kolom_a": "Putra Abu Bakar yang membantu perjalanan hijrah dan bertugas menyampaikan berita kepada nabi Muhammad",
+          "kolom_b": "Masjidil Haram"
+        },
+        {
+          "no": 8,
+          "kolom_a": "Masjid pertama yang didirikan Nabi Muhammad SAW setelah sampai di Madinah",
+          "kolom_b": "Ali bin Abu Thalib"
+        },
+        {
+          "no": 9,
+          "kolom_a": "kota kelahiran Nabi Muhammad",
+          "kolom_b": "Abu Bakar As-siddik"
+        },
+        {
+          "no": 10,
+          "kolom_a": "Nama lain dari kota Yasrib",
+          "kolom_b": "Makkah"
+        }
+      ],
+      "soal_uraian": [
+        {
+          "no": 1,
+          "pertanyaan": "Coba uraikan strategi dakwah Rasulullah di Madinah!"
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Sebutkan apa saja strategi dakwah Rasulullah di Mekah!"
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Ceritakan apa yang kamu ketahui mengenai perang Uhud?"
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Jelaskan bagaimana tata cara beribadah masyarakat mekah dalam menyembah berhala sebelum datangnya Islam!"
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Jelaskan Apa saja tantangan dakwah Nabi Muhammad saw ketika berdakwah di mekah!"
+        }
+      ]
+    },
+    {
+      "kelas": "VIII",
+      "header": {
+        "tahun_pelajaran": "2025/2026",
+        "mata_pelajaran": "SKI",
+        "satuan_pendidikan": "MTs JAMALUDDIN PAOK PONDONG",
+        "kelas": "VIII",
+        "hari_tanggal": "",
+        "waktu": "",
+        "kurikulum": ""
+      },
+      "petunjuk_umum": [
+        "Isilah nomor ujian, nama peserta dan tanggal lahir pada Lembar Jawaban;",
+        "Hitamkan bulatan di depan nama mata ujian pada;",
+        "Tersedia waktu 120 menit untuk mengerjakan paket tes ini;",
+        "Jumlah soal sebanyak 45 butir, yang terdiri dari 30 butir pilihan ganda, 10 butir menjodohkan dan 5 butir uraian;",
+        "Periksa dan bacalah soal-soal sebelum Anda menjawabnya;",
+        "Laporkan kepada pengawas ujian apabila terdapat lembar soal yang kurang jelas, rusak, atau tidak lengkap;",
+        "Mintalah kertas buram kepada pengawas ujian, bila diperlukan;",
+        "Tidak diizinkan menggunakan kalkulator, HP, tabel matematika atau alat bantu hitung lainnya;",
+        "Periksalah pekerjaan Anda sebelum diserahkan kepada pengawas ujian;",
+        "Lembar soal tidak boleh dicoret-coret, difotokopi, atau digandakan."
+      ],
+      "soal_pilihan_ganda": [
+        {
+          "no": 1,
+          "pertanyaan": "Di bawah ini yang merupakan faktor internal penyebab runtuhnya kepemimpinan Dinasti Umayyah adalah…",
+          "pilihan": [
+            "A. Figur pewaris yang lemah setelah meninggalnya Khalifah Hisyam",
+            "B. Munculnya kekuatan baru yang dipelopori oleh keluarga Abbas",
+            "C. Ketidakpuasan sejumlah pemeluk Islam non Arab terhadap pemerintahan Bani Umayyah",
+            "D. Adanya kekecewaan dari kalangan ulama terhadap kebijakan para pemerintah"
+          ]
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Proses yang menjadi awal berdirinya Pemerintahan Dinasti Bani Abbasiyah adalah…",
+          "pilihan": [
+            "A. Keruntuhan Dinasti Bani Umayyah pada tahun 750 M, saat pasukan Abu Muslim al-Khurasani memenangkan pertempuran melawan pasukan Marwan",
+            "B. Banyaknya daerah kekuasaan Islam yang ditaklukan Dinasti Abbasiyah",
+            "C. Ketika banyaknya para ilmuwan dan ulama bermunculan membawa perubahan dan kejayaan Dinasti",
+            "D. Setelah meninggalnya Khalifah Hisyam dari Dinasti Bani Umayyah"
+          ]
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Tokoh pelopor anti Bani Umayyah adalah…",
+          "pilihan": [
+            "A. Harun ar-Rasyid",
+            "B. Abu Nawas",
+            "C. Muhammad bin Ali",
+            "D. Abu Abbas As-safah"
+          ]
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Yang merupakan pendiri Dinasti Bani Umayyah adalah…",
+          "pilihan": [
+            "A. Abu Bakar As-siddik",
+            "B. Siti Khadijah",
+            "C. Umar bin Abdul Aziz",
+            "D. Muawiyah bin Abu Sufyan"
+          ]
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Khalifah terakhir Dinasti Bani Umayyah adalah…",
+          "pilihan": [
+            "A. Zaid bin Haritsah",
+            "B. Abu Bakar as-Siddik",
+            "C. Marwan bin Muhammad",
+            "D. Muawiyah bin Abu Sufyan"
+          ]
+        },
+        {
+          "no": 6,
+          "pertanyaan": "Keruntuhan Dinasti Bani Umayyah benar-benar terjadi setelah pasukan Abbas menggulingkan pasukan Marwan pada sebuah pertempuran yang disebut…",
+          "pilihan": [
+            "A. Perang Zab Hulu",
+            "B. Perang Khandak",
+            "C. Perang Badar",
+            "D. Perang Salib"
+          ]
+        },
+        {
+          "no": 7,
+          "pertanyaan": "Dalam upaya mengambil alih kekuasaan Islam, pasukan Abbas melakukan propaganda di tengah-tengah masyarakat. Adapun jumlah propaganda yang dibentuk dan tersebar di berbagai wilayah adalah…",
+          "pilihan": [
+            "A. 14",
+            "B. 13",
+            "C. 11",
+            "D. 12"
+          ]
+        },
+        {
+          "no": 8,
+          "pertanyaan": "Proses runtuhnya pemerintahan Dinasti Umayyah pada tahun 750 M memiliki keterkaitan erat dengan proses awal mula berdirinya Dinasti Abbasiyah yaitu…",
+          "pilihan": [
+            "A. Keruntuhan Dinasti Umayyah akan ikut menghancurkan Dinasti Abbasiyah",
+            "B. Keruntuhan Umayyah membawa kepedihan mendalam bagi Abbasiyah",
+            "C. Kedua Dinasti sama-sama kerajaan masa lampau",
+            "D. Runtuhnya kekuasaan Umayyah menjadi tonggak awal berdirinya Kekuasaan Abbasiyah"
+          ]
+        },
+        {
+          "no": 9,
+          "pertanyaan": "Pada awal berdirinya Dinasti Abbasiyah, pusat pemerintahan pada saat itu berada di kota…",
+          "pilihan": [
+            "A. Damaskus",
+            "B. Basrah",
+            "C. Khurasan",
+            "D. Kuffah"
+          ]
+        },
+        {
+          "no": 10,
+          "pertanyaan": "Di bawah ini yang merupakan perbandingan antara sistem pemerintahan Daulah Umayyah dan Abbasiyah yang tepat adalah…",
+          "pilihan": [
+            "A. Daulah Umayyah lebih menekankan pada aspek militer and ekspansi wilayah. Daulah Abbasiyah lebih menekankan aspek ilmu pengetahuan dan budaya.",
+            "B. Daulah Umayyah menggunakan sistem Demokrasi dan Daulah Abbasiyah dengan sistem Monarki",
+            "C. Daulah Umayyah dan Abbasiyah sama-sama diskriminatif terhadap kaum Mawalli",
+            "D. Kedua Daulah sama-sama toleran terhadap kaum Mawalli"
+          ]
+        },
+        {
+          "no": 11,
+          "pertanyaan": "Pernyataan-pernyataan berikut merupakan prestasi dari salah satu ilmuwan muslim: Pendiri kota Baghdad, Membenahi administrasi pemerintahan, Membangun hubungan diplomatik dengan wilayah di luar Arab. Siapakah tokoh tersebut?",
+          "pilihan": [
+            "A. Ibnu Sina",
+            "B. Ibnu Majjah",
+            "C. Abu Ja’far al-Mansyur",
+            "D. Attabari"
+          ]
+        },
+        {
+          "no": 12,
+          "pertanyaan": "Di bawah ini yang merupakan strategi keluarga Abbas dalam upaya mengambil alih kekuasaan kaum muslimin dari Dinasti Umayyah adalah…",
+          "pilihan": [
+            "A. Menciptakan propaganda di kalangan masyarakat, serta isu-isu ketidakadilan Daulah Umayyah",
+            "B. Melakukan pemboikotan terhadap perekonomian Daulah Umayyah",
+            "C. Melakukan perjanjian Aqabah antara Daulah Umayyah dengan Daulah Abbasiyah",
+            "D. Melakukan serangan langsung kepada pasukan Umayyah"
+          ]
+        },
+        {
+          "no": 13,
+          "pertanyaan": "Pesan apa yang dapat diambil dari peristiwa runtuhnya Dinasti Umayyah dengan berdirinya Daulah Abbasiyah…",
+          "pilihan": [
+            "A. Pemerintahan yang baik tidak akan mengalami kemunduran",
+            "B. Setiap negara akan berperang pada masanya",
+            "C. Contohlah Daulah Abbasiyah yang mampu menggulingkan pemerintahan Umayyah",
+            "D. Setiap pemerintahan yang berdiri pasti pada masanya akan berakhir dan digantikan dengan yang baru"
+          ]
+        },
+        {
+          "no": 14,
+          "pertanyaan": "Sikap dari seorang Khalifah Harun ar-Rasyid sebagai seorang pemimpin adalah…",
+          "pilihan": [
+            "A. Keras, bertanggung jawab, toleran, peduli pada kaum muslimin saja",
+            "B. Keras, mementingkan diri, tanggung",
+            "C. Lemah lembut, bertanggung jawab, toleran dan mampu mengendalikan diri",
+            "D. Lemah lembut, tidak toleran, tegas dan otoriter"
+          ]
+        },
+        {
+          "no": 15,
+          "pertanyaan": "Perebutan kekuasaan antara Dinasti Umayyah dengan Dinasti Abbasiyah dilatarbelakangi oleh…",
+          "pilihan": [
+            "A. Dilatarbelakangi oleh pemikiran tentang siapa yang berhak memimpin kaum muslimin setelah Rasulullah",
+            "B. Dinasti Abbasiyah merasa lebih senior dari Umayyah",
+            "C. Karena tatanan negara yang masih tidak tertata rapi masa Dinasti Umayyah",
+            "D. Karena Dinasti Umayyah lebih sedikit daerah kekuasaannya dari Dinasti Abbasiyah"
+          ]
+        },
+        {
+          "no": 16,
+          "pertanyaan": "Dinasti Abbasiyah memerintah selama…",
+          "pilihan": [
+            "A. 3 setengah abad",
+            "B. 4 abad",
+            "C. 2 abad",
+            "D. 5 setengah abad"
+          ]
+        },
+        {
+          "no": 17,
+          "pertanyaan": "Jumlah khalifah yang pernah memerintah Dinasti Abbasiyah yaitu…",
+          "pilihan": [
+            "A. 38",
+            "B. 39",
+            "C. 40",
+            "D. 37"
+          ]
+        },
+        {
+          "no": 18,
+          "pertanyaan": "Kota yang menjadi pusat peradaban Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "A. Damaskus",
+            "B. Baghdad",
+            "C. Mekah",
+            "D. Syiria"
+          ]
+        },
+        {
+          "no": 19,
+          "pertanyaan": "Perpindahan kekuasaan setelah meninggalnya Khalifah Hisyam dilandasi dengan…",
+          "pilihan": [
+            "A. Peperangan",
+            "B. Pertikaian keluarga",
+            "C. Kejayaan Dinasti Umayyah",
+            "D. Kemunduran Dinasti Umayyah"
+          ]
+        },
+        {
+          "no": 20,
+          "pertanyaan": "Di antara kota-kota yang merupakan pusat kegiatan dan strategi pergerakan perebutan kekuasaan kaum muslimin dari Daulah Umayyah oleh Daulah Abbasiyah adalah…",
+          "pilihan": [
+            "A. Humaymah, Basrah dan Turki",
+            "B. Humaymah, Kuffah dan Khurasan",
+            "C. Mekah, Madinah dan India",
+            "D. Humaymah, Kuffah dan Spanyol"
+          ]
+        },
+        {
+          "no": 21,
+          "pertanyaan": "Tempat sebagai pusat pengembangan dan penerjemahan karya-karya kuno yang mendapat perhatian langsung oleh Khalifah Harun ar-Rasyid dan Al-Makmun adalah…",
+          "pilihan": [
+            "A. Baitul Hikam",
+            "B. Baitul Makmur",
+            "C. Baitul Maal",
+            "D. Baitul Hikmah"
+          ]
+        },
+        {
+          "no": 22,
+          "pertanyaan": "Dari data berikut: 1) Abu Ja’far al-Mansyur, 2) Muawiyah bin Abu Sufyan, 3) Al-Ma’mun, 4) Umar bin Abdul Aziz. Yang termasuk Khalifah besar Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "A. 1, 2 dan 3",
+            "B. 2, 3 dan 4",
+            "C. 1, 2 dan 4",
+            "D. 1, 3 dan 4"
+          ]
+        },
+        {
+          "no": 23,
+          "pertanyaan": "Di antara ibrah yang dapat diambil dari perkembangan dan kemajuan para ilmuan Dinasti Abbasiyah adalah…",
+          "pilihan": [
+            "A. Menumbuhkan keinginan untuk menuntut ilmu seperti para ilmuan",
+            "B. Membangun kota kuno seperti yang ada pada masa Dinasti Abbasiyah",
+            "C. Ikut berperang seperti yang terjadi pada masa itu",
+            "D. Mengikuti secara utuh budaya yang ada pada masa pemerintahan terdahulu"
+          ]
+        },
+        {
+          "no": 24,
+          "pertanyaan": "Gerakan dakwah Dinasti Abbasiyah dimulai pada masa…",
+          "pilihan": [
+            "A. Abu Ja’far al-Mansyur",
+            "B. Umar bin Abdul Aziz",
+            "C. Harun ar-Rasyid",
+            "D. Abu Abbas as-Safah"
+          ]
+        },
+        {
+          "no": 25,
+          "pertanyaan": "Panglima perang Dinasti Abbasiyah yang berjasa menggulingkan Dinasti Umayyah adalah…",
+          "pilihan": [
+            "A. Muhammad bin Ali",
+            "B. Abu Muslim al-Khurasani",
+            "C. Bilal bin Rabbah",
+            "D. Ali bin Abi Thalib"
+          ]
+        },
+        {
+          "no": 26,
+          "pertanyaan": "Perjanjian antara Hasan bin Ali dengan Mu’awiyah disebut dengan…",
+          "pilihan": [
+            "A. Amul Jamaah",
+            "B. Hudaybiah",
+            "C. Perjanjian Aqabah",
+            "D. Perjanjian Aqabah II"
+          ]
+        },
+        {
+          "no": 27,
+          "pertanyaan": "Selain sebagai tempat ibadah, pada masa Abbasiyah masjid juga berfungsi sebagai…",
+          "pilihan": [
+            "A. Penginapan",
+            "B. Tempat ibadah",
+            "C. Pusat ilmu pengetahuan"
+          ]
+        },
+        {
+          "no": 28,
+          "pertanyaan": "Tokoh yang berperan penting dalam mendirikan Dinasti Abbasiyah sekaligus sebagai Khalifah Dinasti tersebut adalah…",
+          "pilihan": [
+            "A. Abu Muslim al-Khurasani",
+            "B. Muhammad bin Ali",
+            "C. Ibrahim al-Imam",
+            "D. Abul Abbas as-Safah"
+          ]
+        },
+        {
+          "no": 29,
+          "pertanyaan": "Isu yang disebar keluarga Abbas untuk mencari dukungan masyarakat adalah…",
+          "pilihan": [
+            "A. Ketidakadilan yang dilakukan oleh Dinasti Umayyah terutama kepada kaum Mawalli",
+            "B. Pemerintahan Umayyah yang selalu korupsi",
+            "C. Dinasti Umayyah yang sering mengadakan kerja paksa secara diam-diam",
+            "D. Para pemimpin yang otoriter"
+          ]
+        },
+        {
+          "no": 30,
+          "pertanyaan": "Di Barat, Jabir Bin Hayyan seorang ahli kimia muslim pertama yang lebih dikenal dengan sebutan……",
+          "pilihan": [
+            "Gabi",
+            "Genta",
+            "Geri",
+            "Geber"
+          ]
+        }
+      ],
+      "soal_menjodohkan": [
+        {
+          "no": 1,
+          "kolom_a": "Penulis Buku Al-Qanun Fi At-tib (dasar-dasar ilmu kedokteran)",
+          "kolom_b": "Al-Khawarizmi"
+        },
+        {
+          "no": 2,
+          "kolom_a": "Ulama penyusun Kutubu sittah",
+          "kolom_b": "Ali ibnu Rabban At-Tabari"
+        },
+        {
+          "no": 3,
+          "kolom_a": "Pendiri Mazhab Hanafi",
+          "kolom_b": "Al-Khindi, Al-Ghazali, Ibnu Maskawaih"
+        },
+        {
+          "no": 4,
+          "kolom_a": "Pendiri Mazhab syafi’i",
+          "kolom_b": "Imam Abu Hanifah"
+        },
+        {
+          "no": 5,
+          "kolom_a": "Ilmuan penulis ensiklopeddia Kesehatan (Firdaus Al-Hikmah)",
+          "kolom_b": "[Gambar Patung Monumen Ilmuwan]"
+        },
+        {
+          "no": 6,
+          "kolom_a": "Ilmuan Muslim bidang kedokteran masa Dinasti Abbasiyah",
+          "kolom_b": "[Gambar Ilustrasi Khalifah / Tokoh Muslim]"
+        },
+        {
+          "no": 7,
+          "kolom_a": "Ilmuan bidang Filsafat Islam masa Dinasti Abbasiyah",
+          "kolom_b": "Ibnu Sina"
+        },
+        {
+          "no": 8,
+          "kolom_a": "Ilmuan bidang Astronomi",
+          "kolom_b": "Ali At-Tabari, Ar-Razi, Ibnu Sina"
+        },
+        {
+          "no": 9,
+          "kolom_a": "Gambar yang menunjukan khalifah Dinasti Abbasiyah (Harun Ar-Rasyid)",
+          "kolom_b": "Imam Syafi’i"
+        },
+        {
+          "no": 10,
+          "kolom_a": "Gambar yang menunjukan khalifah (Abu Ja’far Al-Mansyur)",
+          "kolom_b": "Imam Bukhari, Imam Muslim, Imam Abu Daud, Imam At-Tirmizi, Imam An-Nasai, Imam Ibnu Majjah"
+        }
+      ],
+      "soal_uraian": [
+        {
+          "no": 1,
+          "pertanyaan": "Apa saja faktor-faktor pendukung terbentuknya Daulah Abbasiyah?"
+        },
+        {
+          "no": 2,
+          "pertanyaan": "Apa saja faktor internal dan eksternal penyebab runtuhnya Daulah Abbasiyah?"
+        },
+        {
+          "no": 3,
+          "pertanyaan": "Ceritakan yang kamu ketahui mengenai sejarah berdirinya Dinasti Abbasiyah!"
+        },
+        {
+          "no": 4,
+          "pertanyaan": "Sebutkan tokoh-tokoh penting dalam proses berdirinya Daulah Abbasiyah!"
+        },
+        {
+          "no": 5,
+          "pertanyaan": "Pelajaran apa yang bisa kamu ambil dari kekhalifahan Daulah Abbasiyah?"
+        }
+      ]
+    }
+  ]
+}
