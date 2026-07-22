@@ -1,19 +1,11 @@
 [
   {
     "id": "uj-01",
-    "kelas": ["VII A", "VII B", "VII C", "VIII A", "VIII B", "IX A", "IX B"],
-    "nama_ujian": "BHS. INDONESIA",
-    "waktu_mulai": "2025-11-26 07:30:00",
-    "durasi_menit": 120,
-    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal_ski_vii.json"
-  },
-  {
-    "id": "uj-02",
-    "kelas": ["VII A", "VII B", "VII C", "VIII A", "VIII B", "IX A", "IX B"],
-    "nama_ujian": "QURAN HADIST",
+    "kelas": ["VII A", "VII B", "VIII A", "VIII B", "VIII C", "IX A", "IX B"],
+    "nama_ujian": "SKI",
     "waktu_mulai": "2025-11-26 09:30:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal%201.json"
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal_ski_vii.json"
   },
   {
     "id": "uj-03",
