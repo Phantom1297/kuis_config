@@ -1,20 +1,17 @@
 [
   {
-    "no": 1,
-    "pertanyaan": "Apa ibukota dari negara Indonesia?",
-    "a": "Surabaya",
-    "b": "Jakarta",
-    "c": "Bandung",
-    "d": "Medan",
-    "jawaban": "b"
+    "tipe": "pg",
+    "pertanyaan": "Berapa 2+2?",
+    "pilihan": ["1", "2", "3", "4"],
+    "jawaban_benar": "4"
   },
   {
-    "no": 2,
-    "pertanyaan": "Terjemahan bahasa Arab dari kata 'Buku' adalah... [img]https://link-gambar.com/buku.jpg[/img]",
-    "a": "كِتَابٌ",
-    "b": "قَلَمٌ",
-    "c": "مَكْتَبٌ",
-    "d": "كُرْسِيٌّ",
-    "jawaban": "a"
+    "tipe": "essay",
+    "pertanyaan": "Jelaskan proses fotosintesis!"
+  },
+  {
+    "tipe": "menjodohkan",
+    "pertanyaan": "Jodohkan ibukota negara berikut:",
+    "pasangan": {"Indonesia": "Jakarta", "Jepang": "Tokyo"}
   }
 ]
