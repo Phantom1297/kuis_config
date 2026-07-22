@@ -1,7 +1,7 @@
 [
   {
     "id": "uj7-01",
-    "kelas": "7A",
+    "kelas": ["7A", "7B", "7C", "7D", "7E", "7F"],
     "nama_ujian": "Ujian Matematika 1",
     "waktu_mulai": "2026-07-22 08:00:00",
     "durasi_menit": 90,
@@ -9,17 +9,9 @@
   },
   {
     "id": "uj7-02",
-    "kelas": "7B",
-    "nama_ujian": "Ujian Matematika 1",
-    "waktu_mulai": "2026-07-22 08:00:00",
-    "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal%201.json"
-  },
-  {
-    "id": "uj8-01",
-    "kelas": "8A",
-    "nama_ujian": "Ujian IPA 1",
-    "waktu_mulai": "2026-07-22 10:00:00",
+    "kelas": ["7A", "7B", "7C", "7D", "7E", "7F"],
+    "nama_ujian": "Ujian Matematika 2",
+    "waktu_mulai": "2026-07-22 12:00:00",
     "durasi_menit": 90,
     "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/soal%201.json"
   }
