@@ -5,7 +5,7 @@
     "nama_ujian": "Ujian SKI Kelas 7",
     "waktu_mulai": "2026-07-22 08:00:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski7"
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski7.json"
   },
   {
     "id": "uj8-01",
@@ -13,14 +13,14 @@
     "nama_ujian": "Ujian SKI Kelas 8",
     "waktu_mulai": "2026-07-22 12:00:00",
     "durasi_menit": 90,
-    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski8"
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/ski8.json"
   },
   {
     "id": "uj9-01",
     "kelas": ["9A", "9B", "9C"],
-    "nama_ujian": "Ujian SKI Kelas 9",
+    "nama_ujian": "Ujian BAHASA ARAB Kelas 7",
     "waktu_mulai": "2026-07-23 08:00:00",
     "durasi_menit": 90,
-    "url_soal": ""
+    "url_soal": "https://raw.githubusercontent.com/Phantom1297/kuis_config/refs/heads/main/BA7.json"
   }
 ]
