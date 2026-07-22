@@ -1,7 +1,7 @@
 [
   {
     "id": "uj-01",
-    "kelas": ["VII A", "VII B", "VIII A", "VIII B", "VIII C", "IX A", "IX B"],
+    "kelas": ["VII A", "VII B"],
     "nama_ujian": "SKI",
     "waktu_mulai": "2025-11-26 09:30:00",
     "durasi_menit": 90,
@@ -9,7 +9,7 @@
   },
   {
     "id": "uj-03",
-    "kelas": ["VII A", "VII B", "VII C", "VIII A", "VIII B", "IX A", "IX B"],
+    "kelas": ["VIII A", "VIII B", "VIII C",],
     "nama_ujian": "IPA",
     "waktu_mulai": "2025-11-27 07:30:00",
     "durasi_menit": 120,
@@ -17,7 +17,7 @@
   },
   {
     "id": "uj-04",
-    "kelas": ["VII A", "VII B", "VII C", "VIII A", "VIII B", "IX A", "IX B"],
+    "kelas": ["IX A", "IX B"],
     "nama_ujian": "FIQIH",
     "waktu_mulai": "2025-11-27 10:00:00",
     "durasi_menit": 90,
